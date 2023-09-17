@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background: linear-gradient(180deg, #eea51d, #40bdce);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     padding: 20px;
@@ -41,7 +41,7 @@ input[type="button"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #4CAF50;
+    background-color: #e71515;
     color: #fff;
 }
 
